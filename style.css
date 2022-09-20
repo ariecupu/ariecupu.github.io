@@ -36,11 +36,11 @@ header img {
 }
 
 header h1 {
-  font-size: 48px;
+  font-size: 36px;
   margin-bottom: 10px;
 }
 header h1 small {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
 }
 ul.roles {
