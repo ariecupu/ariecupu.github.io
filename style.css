@@ -105,12 +105,12 @@ ul.roles li {
 }
 .social-icons li a {
   display: block;
-  width: 64px;
-  height: 64px;
+  width: 48px;
+  height: 48px;
   color: #ffffff;
-  border-radius: 32px;
-  font-size: 20px;
-  line-height: 64px;
+  border-radius: 24px;
+  font-size: 18px;
+  line-height: 48px;
 }
 .social-icons li a:hover {
   text-decoration: none;
