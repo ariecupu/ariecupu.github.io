@@ -50,9 +50,9 @@ ul.roles {
   margin-bottom: 30px;
 }
 ul.roles li {
-  margin: 0 0 10px 0;
-  font-size: 18px;
-  line-height: 24px;
+  margin: 0 0 7px 0;
+  font-size: 16px;
+  line-height: 20px;
   display: block;
   color: #909090;
   text-transform: uppercase;
